@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestPickupMap</string>
+    <string name="add_pin">Add Home Pin</string>
+    <string name="remove_pin">Remove Pin</string>
+    <string name="add_pin_here">Add Pin Here</string>
+    <string name="remove_last_pin">Remove Last Pin</string>
+    <string name="unhighlight">Unhighlight Last</string>
+    <string name="highlight">Highlight Last</string>
+</resources>
